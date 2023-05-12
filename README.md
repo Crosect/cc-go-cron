@@ -1,4 +1,4 @@
-# cc-go-cron
+# CC-GO-CRON
 
 ## Installation
 
